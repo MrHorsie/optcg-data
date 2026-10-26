@@ -37,6 +37,8 @@ jobs:
         run: cargo install --git https://github.com/Coko7/vegapull --locked
 
       - name: Pull raw card data
+        env:
+          SCRAPER_UA: "optcg-data fork for Log Pose (+https://github.com/MrHorsie/optcg-data)"
         run: node scripts/pull.mjs
 
       - name: Transform into published schema

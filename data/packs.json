@@ -18,6 +18,12 @@
     "cardCount": 90
   },
   {
+    "code": "EB-05",
+    "name": "ONE PIECE HEROINES EDITION vol.2",
+    "vegapullId": "569205",
+    "cardCount": 61
+  },
+  {
     "code": "OP-01",
     "name": "ROMANCE DAWN",
     "vegapullId": "569101",
@@ -102,6 +108,12 @@
     "cardCount": 155
   },
   {
+    "code": "OP-17",
+    "name": "THE WORLD’S STRONGEST WARRIORS",
+    "vegapullId": "569117",
+    "cardCount": 169
+  },
+  {
     "code": "OP14-EB04",
     "name": "THE AZURE SEA’S SEVEN",
     "vegapullId": "569114",
@@ -109,7 +121,7 @@
   },
   {
     "code": "OP15-EB04",
-    "name": "BOOSTER PACK",
+    "name": "ADVENTURE ON KAMI’S ISLAND",
     "vegapullId": "569115",
     "cardCount": 196
   },
@@ -117,7 +129,7 @@
     "code": "OTHER-PRODUCT-CARD",
     "name": "Other Product Card",
     "vegapullId": "569801",
-    "cardCount": 189
+    "cardCount": 194
   },
   {
     "code": "PRB-01",
@@ -135,7 +147,7 @@
     "code": "PROMOTION-CARD",
     "name": "Promotion card",
     "vegapullId": "569901",
-    "cardCount": 467
+    "cardCount": 468
   },
   {
     "code": "ST-01",

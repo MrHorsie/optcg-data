@@ -10767,30 +10767,6 @@
     "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/OP10-113_p1.png"
   },
   {
-    "id": "ST17-004_p1",
-    "set": "PROMOTION-CARD",
-    "name": "Boa Hancock",
-    "rarity": "SuperRare",
-    "category": "Character",
-    "colors": [
-      "Blue"
-    ],
-    "cost": 4,
-    "power": 6000,
-    "counter": null,
-    "block": 3,
-    "attributes": [
-      "Special"
-    ],
-    "types": [
-      "The Seven Warlords of the Sea",
-      "Kuja Pirates"
-    ],
-    "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of your deck in any order. Then, give up to 1 rested DON!! card to 1 of your {The Seven Warlords of the Sea} type Leader or Character cards.",
-    "trigger": null,
-    "image": "https://cdn.jsdelivr.net/gh/michalkiral/optcg-data@main/images/custom/ST17-004_p1.png"
-  },
-  {
     "id": "P-010_p1",
     "set": "PROMOTION-CARD",
     "name": "Kaido",
